@@ -1,0 +1,1 @@
+<img src="<?php echo e(route('home')); ?>/images/<?php echo e($imageName); ?>" ><?php /**PATH C:\xampp\htdocs\first-project\resources\views/posts/image.blade.php ENDPATH**/ ?>
